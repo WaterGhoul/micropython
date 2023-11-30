@@ -1,0 +1,19 @@
+{
+    "deploy": [
+        "../deploy.md"
+    ],
+    "docs": "",
+    "features": [
+        "Dual-core",
+        "External Flash",
+        "USB-C"
+    ],
+    "images": [
+        "PimoroniPicoLipo_1of3_1024x1024.jpg"
+    ],
+    "mcu": "rp2040",
+    "product": "RP2040 UNO (16MiB)",
+    "thumbnail": "",
+    "url": "https://linktr.ee/water_ghoul",
+    "vendor": "Water_Ghoul"
+}
